@@ -5,10 +5,7 @@
   "author": "yukiya383",
   "license": "Apache-2.0",
   "scripts": {
-    "dev": "next",
-    "build": "next build && next export",
     "prepare": "npm run tsc",
-    "start": "next start",
     "tsc": "tsc",
     "type-check": "tsc --noEmit"
   },
