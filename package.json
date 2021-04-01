@@ -1,0 +1,22 @@
+{
+  "name": "blockly-plugin-type-blockjson",
+  "version": "0.0.0",
+  "description": "Type aliases useful for Blockly.",
+  "author": "yukiya383",
+  "license": "Apache-2.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build && next export",
+    "prepare": "npm run tsc",
+    "start": "next start",
+    "tsc": "tsc",
+    "type-check": "tsc --noEmit"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "peerDependencies": {
+    "blockly": "^5.20210325.0",
+    "typescript": "^4.2.3"
+  }
+}
