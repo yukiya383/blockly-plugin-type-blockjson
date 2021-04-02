@@ -6,11 +6,9 @@ This plugin provides type declaration for below kind of JSON data defined in .ts
 - Block definition
 
 ## Installation
-<!--
 1. Make sure you've installed typescript.
-2. `npm install blockly-plugin-type-blockJSON`.
--->
-Please wait for a while, I'm working to upload it to npm.
+2. `npm install blockly-plugin-type-blockjson`.
+
 ## Usage
 ```typescript
 import {BlockJson} from 'blockly-plugin-type-blockJSON';
@@ -19,3 +17,6 @@ const sampleBlock:BlockJson = {
     type:"SampleBlock",...
 }
 ```
+
+## Reference
+I'm making, please wait...

@@ -1,11 +1,12 @@
 {
   "name": "blockly-plugin-type-blockjson",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Type aliases useful for Blockly.",
   "author": "yukiya383",
   "license": "Apache-2.0",
   "scripts": {
     "prepare": "npm run tsc",
+    "prepublishOnly": "npm run tsc",
     "tsc": "tsc",
     "type-check": "tsc --noEmit"
   },
