@@ -19,4 +19,4 @@ const sampleBlock:BlockJson = {
 ```
 
 ## Reference
-I'm making, please wait...
+https://yukiya383.github.io/blockly-plugin-type-blockjson/

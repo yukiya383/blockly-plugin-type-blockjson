@@ -11,6 +11,7 @@
   "bugs": {
     "url": "https://github.com/yukiya383/blockly-plugin-type-blockjson/issues"
   },
+  "homepage": "https://yukiya383.github.io/blockly-plugin-type-blockjson/",
   "scripts": {
     "doc": "typedoc .",
     "prepare": "npm run tsc",
