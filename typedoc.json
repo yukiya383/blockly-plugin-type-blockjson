@@ -1,6 +1,6 @@
 {
     "out": "./docs/",
-    "name": "pelab2021",
+    "name": "blockly-plugin-type-blockjson",
     "exclude": [
         "node_modules/**/*",
         "dist/**/*",
