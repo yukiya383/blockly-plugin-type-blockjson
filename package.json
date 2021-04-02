@@ -1,6 +1,6 @@
 {
   "name": "blockly-plugin-type-blockjson",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Type aliases useful for Blockly.",
   "author": "yukiya383",
   "license": "Apache-2.0",
