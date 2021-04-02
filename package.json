@@ -4,6 +4,13 @@
   "description": "Type aliases useful for Blockly.",
   "author": "yukiya383",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yukiya383/blockly-plugin-type-blockjson.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yukiya383/blockly-plugin-type-blockjson/issues"
+  },
   "scripts": {
     "prepare": "npm run tsc",
     "prepublishOnly": "npm run tsc",
