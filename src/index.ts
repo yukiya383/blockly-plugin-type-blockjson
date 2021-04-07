@@ -1,4 +1,9 @@
 /**
+ * @license
+ * Copyright 2021 yukiya383
+ * SPDX-License-Identifier: Apache-2.0
+ */
+/**
  * The type representing the value used for typechecking in Blockly.
  */
 export type Types = string|readonly string[]|null;
