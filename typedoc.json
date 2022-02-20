@@ -1,4 +1,5 @@
 {
+    "entryPointStrategy": "expand",
     "out": "./docs/",
     "name": "blockly-plugin-type-blockjson",
     "exclude": [
